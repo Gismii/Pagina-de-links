@@ -10,10 +10,12 @@
   }
 
   .boxMain{
+
     margin: 30px;
     border: solid 0.5px;
     border-radius: 5px;
-
+    
+    
   }
 
   h3{
@@ -25,4 +27,5 @@
   p{
     font-size: small;
     margin-left: 15px;
+    
   }
